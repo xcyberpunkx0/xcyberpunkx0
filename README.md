@@ -16,17 +16,10 @@ I’m Aditya, a 2nd year university student, curious coder and an intermediate a
 
 <br>
 
-
-
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0)]
 <!-- GitHub Stats -- >
 
-<a href="https://github.com/xcyberpunkx0">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcyberpunkx0&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<a href="https://github.com/xcyberpunkx0">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Aditya's GitHub Stats" />
-</a>
 <!--
 **xcyberpunkx0/xcyberpunkx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
