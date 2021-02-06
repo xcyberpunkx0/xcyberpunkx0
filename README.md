@@ -20,6 +20,19 @@ I’m Aditya, a 2nd year university CS student at [ITER, S.O.A.U.](https://www.s
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=radical)
 
+## ⚡ Technologies
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Flutter](https://img.shields.io/badge/-Flutter-00599C?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-00599C?style=flat-square&logo=dart)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
 
 ### 📌 Pinned Repositories
 <code><a href="https://github.com/xcyberpunkx0/SkiWeather">
