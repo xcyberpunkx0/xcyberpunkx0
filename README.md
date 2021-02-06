@@ -10,6 +10,8 @@ I’m Aditya, a 2nd year university student, curious coder and an intermediate a
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=radical)
 
+
+### 📌 Pinned Repositories
 <code><a href="https://github.com/braydoncoyer/ng-limeade">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xcyberpunkx0&repo=SkiWeather&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
