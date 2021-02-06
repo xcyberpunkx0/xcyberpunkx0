@@ -7,15 +7,25 @@
 
 I’m Aditya, a 2nd year university CS student at [ITER, S.O.A.U.](https://www.soa.ac.in/iter), curious coder and an intermediate app developer. I make it my mission to know about every technology to some extent, I enjoy learning about new technologies,and i will be happy to collaborate.
 
+- 🔭 I’m currently working on my DS&Algorithms and some minor projects.
+- 🌱 I’m currently Kubernetes
+- 👯 I’m looking to collaborate on a flutter project.
+- 🤔 I’m looking for help with cloud.
+- 💬 Ask me about Java,Flutter,Dart,C++ and web dev!
+- 📫 How to reach me: `adityagup1a@gmail.com`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: You are reading this 
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=radical)
 
 
 ### 📌 Pinned Repositories
-<code><a href="https://github.com/braydoncoyer/ng-limeade">
+<code><a href="https://github.com/xcyberpunkx0/SkiWeather">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xcyberpunkx0&repo=SkiWeather&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<code><a href="https://github.com/xcyberpunkx0/raag">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xcyberpunkx0&repo=raag&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 
 **xcyberpunkx0/xcyberpunkx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
