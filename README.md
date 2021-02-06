@@ -8,21 +8,10 @@
 I’m Aditya, a 2nd year university student, curious coder and an intermediate app developer. I make it my mission to know about every technology to some extent, I enjoy learning about new technologies,and i will be happy to collaborate.
 
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=dark)
-
-<!-- Pinned Repositories -- >
-## 📌 Pinned Repositories
-
-<code><a href="https://github.com/xcyberpunkx0/SkiWeather">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xcyberpunkx0&repo=radical" />
-</a></code>
-
-<br>
-
-<!-- GitHub Stats -- >
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=radical)
 
 
-<!--
+
 **xcyberpunkx0/xcyberpunkx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
