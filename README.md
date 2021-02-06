@@ -17,7 +17,7 @@ I’m Aditya, a 2nd year university student, curious coder and an intermediate a
 
 <br>
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0)]
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=dark)
 <!-- GitHub Stats -- >
 
 
