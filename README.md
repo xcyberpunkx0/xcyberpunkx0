@@ -3,12 +3,15 @@
 ![Visits Badge](https://badges.pufler.dev/visits/xcyberpunkx0/xcyberpunkx0)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/xcyberpunkx0)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aditya-gupta-7a3549190/)
+[![Linkedin Badge](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-gupta-7a3549190/)](https://www.linkedin.com/in/aditya-gupta-7a3549190/)
+[![Instagram Badge](https://img.shields.io/badge/-cyberpunkx0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/xcyberpunkx0/)](https://instagram.com/xcyberpunkx0)
+[![Gmail Badge](https://img.shields.io/badge/-adityagup1a@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityagup1a@gmail.com)](mailto:adityagup1a@gmail.com)
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I’m Aditya, a 2nd year university CS student at [ITER, S.O.A.U.](https://www.soa.ac.in/iter), curious coder and an intermediate app developer. I make it my mission to know about every technology to some extent, I enjoy learning about new technologies,and i will be happy to collaborate.
 
 - 🔭 I’m currently working on my DS&Algorithms and some minor projects.
-- 🌱 I’m currently Kubernetes
+- 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on a flutter project.
 - 🤔 I’m looking for help with cloud.
 - 💬 Ask me about Java,Flutter,Dart,C++ and web dev!
