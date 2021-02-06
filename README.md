@@ -8,6 +8,8 @@
 I’m Aditya, a 2nd year university student, curious coder and an intermediate app developer. I make it my mission to know about every technology to some extent, I enjoy learning about new technologies,and i will be happy to collaborate.
 
 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=dark)
+
 <!-- Pinned Repositories -- >
 ## 📌 Pinned Repositories
 
@@ -17,7 +19,6 @@ I’m Aditya, a 2nd year university student, curious coder and an intermediate a
 
 <br>
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=dark)
 <!-- GitHub Stats -- >
 
 
