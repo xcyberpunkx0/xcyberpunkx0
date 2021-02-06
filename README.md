@@ -1,7 +1,6 @@
 ![Aditya's GitHub Banner](./assets/collaborate.png)
 
 ![Visits Badge](https://badges.pufler.dev/visits/xcyberpunkx0/xcyberpunkx0)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/xcyberpunkx0)
 [![Twitter Badge](https://img.shields.io/badge/-xcyberpunkx0-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/xcyberpunkx0)](https://twitter.com/xcyberpunkx0)
 [![Linkedin Badge](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-gupta-7a3549190/)](https://www.linkedin.com/in/aditya-gupta-7a3549190/)
 [![Instagram Badge](https://img.shields.io/badge/-cyberpunkx0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/xcyberpunkx0/)](https://instagram.com/xcyberpunkx0)
