@@ -11,9 +11,9 @@ I’m Aditya, a 2nd year university student, curious coder and an intermediate a
 <!-- Pinned Repositories -- >
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/xcyberpunkx0/SkiWeather">
+<code><a href="https://github.com/xcyberpunkx0/SkiWeather">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xcyberpunkx0&repo=SkiWeather" />
-</a>
+</a></code>
 
 <br>
 
