@@ -38,8 +38,7 @@ I’m Aditya, a 2nd year university CS student at [ITER, S.O.A.U.](https://www.s
 <code><a href="https://github.com/xcyberpunkx0/SkiWeather">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xcyberpunkx0&repo=SkiWeather&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-  
-  <code><a href="https://github.com/xcyberpunkx0/JustDoIt">
+<code><a href="https://github.com/xcyberpunkx0/JustDoIt">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xcyberpunkx0&repo=JustDoIt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <code><a href="https://github.com/xcyberpunkx0/raag">
