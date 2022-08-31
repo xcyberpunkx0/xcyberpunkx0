@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-adityagup1a@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityagup1a@gmail.com)](mailto:adityagup1a@gmail.com)
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m Aditya, a Self-Taught Programmer,2nd year university CS student at [ITER, S.O.A.U.](https://www.soa.ac.in/iter), curious coder and an intermediate app developer. I make it my mission to know about every technology to some extent, I enjoy learning about new technologies,and i will be happy to collaborate.
+I’m Aditya, a Self-Taught Programmer,4th year university CS student at [ITER, S.O.A.U.](https://www.soa.ac.in/iter), curious coder and an intermediate app developer. I make it my mission to know about every technology to some extent, I enjoy learning about new technologies,and i will be happy to collaborate.
 
 - 🔭 I’m currently working on my DS&Algorithms and some minor projects.
 - 🌱 I’m currently learning Kubernetes
