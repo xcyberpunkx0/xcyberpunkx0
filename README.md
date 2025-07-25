@@ -35,7 +35,7 @@ I'm **Aditya**, a passionate **Software Engineer** at **[The Aware AI]** with **
 - **Code Architecture**: Clean, maintainable, and scalable codebases
 
 ### 🚀 Current Focus
-- **Lead Developer** on **[Mirror](https://github.com/xcyberpunkx0/Mirror)** - A comprehensive AI-powered journaling platform
+- **Frontend Developer** on **[Mirror Connect]** - A comprehensive AI-powered journaling platform
 - **Architecture Design**: Implementing clean architecture patterns
 - **Performance Optimization**: Enhancing app performance and user experience
 
