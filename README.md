@@ -1,142 +1,72 @@
-<div align="center">
-  <img src="./assets/collaborate.png" alt="Aditya's GitHub Banner" width="100%"/>
-</div>
+# Hi there, I'm Aditya! 👋
 
-<div align="center">
-  <a href="https://badges.pufler.dev/visits/xcyberpunkx0/xcyberpunkx0">
-    <img src="https://badges.pufler.dev/visits/xcyberpunkx0/xcyberpunkx0" alt="Profile Visits"/>
-  </a>
-  <a href="https://twitter.com/xcyberpunkx0">
-    <img src="https://img.shields.io/badge/-xcyberpunkx0-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-gupta-7a3549190/">
-    <img src="https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:adityagup1a@gmail.com">
-    <img src="https://img.shields.io/badge/-adityagup1a@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+![Premium Banner](pro_cyberpunk_banner_v2.png)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Frontend+Specialist;Mobile+App+Developer;UI%2FUX+Designer;AI+Journaling+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</div>
+I'm a **Software Engineer** with over **2 years of experience** in building intuitive and scalable frontend applications. I specialize in crafting high-performance user interfaces and robust architectures.
 
-I'm **Aditya**, a passionate **Software Engineer** at **[The Aware AI]** with **2+ years of experience** in frontend development. I specialize in building intuitive, scalable applications using modern technologies and best practices.
-
-### 🎯 What I Do
-- **Frontend Development**: Flutter, React, JavaScript/TypeScript
-- **Mobile App Development**: Cross-platform solutions with Flutter
-- **UI/UX Design**: Creating beautiful, responsive user interfaces
-- **Performance Optimization**: Ensuring smooth, fast user experiences
-- **Code Architecture**: Clean, maintainable, and scalable codebases
-
-### 🚀 Current Focus
-- **Frontend Developer** on **[Mirror Connect]** - A comprehensive AI-powered journaling platform
-- **Architecture Design**: Implementing clean architecture patterns
-- **Performance Optimization**: Enhancing app performance and user experience
+- 🔭 Recently focused on **Mirror Connect**, an AI-powered journaling platform.
+- ⚡ Focused on **Clean Architecture** and **Performance Optimization**.
+- 🎨 Passionate about **UI/UX Design** and creating seamless user journeys.
 
 ---
 
-## 📊 GitHub Stats
+### 📂 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcyberpunkx0&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
+#### 🎬 **[AuraStream](https://github.com/xcyberpunkx0/AuraStream)**
+A high-performance "Ghost Engine" video streaming platform leveraging advanced caching and decentralized video delivery.
+- **Tech**: Next.js 14, TypeScript, TailwindCSS, Vercel Postgres.
 
----
-
-## 🛠️ Technical Skills
-
-### **Frontend & Mobile Development**
-![Flutter](https://img.shields.io/badge/-Flutter-00599C?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-00599C?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Web Technologies**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **Programming Languages**
-![Java](https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### 🧹 **[ClearFeed](https://github.com/xcyberpunkx0/ClearFeed)**
+A professional Chrome extension designed to declutter social feeds and enhance readability through AI-driven content filtering.
+- **Tech**: JavaScript, Chrome Extension API (MV3), CSS3.
 
 ---
 
-## 🏆 Key Achievements
+### 🛠️ Tech Stack
 
-### **Mirror Project Contributions** (2025)
-- **19+ Commits** with significant UI/UX improvements
-- **Architecture Reorganization**: Restructured presentation layer for better maintainability
-- **Performance Optimization**: Enhanced dialog animations and UI responsiveness
-- **Feature Development**: Built Various Screens, developed components.
-- **Code Quality**: Implemented Material 3 design patterns and improved code organization
-
-### **Technical Highlights**
-- **311+ Dart Files** in a complex Flutter application
-- **Clean Architecture**: Implemented proper separation of concerns
-- **State Management**: Expertise in BLoC pattern and state management
-- **UI/UX Excellence**: Created intuitive, responsive user interfaces
-- **Cross-platform Development**: Flutter expertise for iOS and Android
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
-### **[SkiWeather - Weather App](https://github.com/xcyberpunkx0/SkiWeather)**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcyberpunkx0&repo=SkiWeather&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=141321&hide_border=true" alt="SkiWeather Project"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xcyberpunkx0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcyberpunkx0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-### **[JustDoIt - Task Management](https://github.com/xcyberpunkx0/JustDoIt)**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcyberpunkx0&repo=JustDoIt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=141321&hide_border=true" alt="JustDoIt Project"/>
-</div>
-
----
-
-## 📈 Recent Contributions
-
-
-## 🎯 What I'm Looking For
-
-- **Collaboration**: Flutter projects and AI-powered applications
-- **Learning**: Advanced Flutter patterns and cloud architecture
-- **Challenges**: Complex UI/UX problems and performance optimization
-- **Growth**: Opportunities to work on large-scale applications
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcyberpunkx0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📫 Get In Touch
+### 📈 Activity Graph
 
-<div align="center">
-  <a href="mailto:adityagup1a@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-gupta-7a3549190/">
-    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/xcyberpunkx0">
-    <img src="https://img.shields.io/badge/-Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xcyberpunkx0&theme=tokyonight&hide_border=true&area=true)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xcyberpunkx0&style=flat-square&color=blue" alt="Profile Views"/>
-  <p><em>Thanks for visiting! Let's build something amazing together! 🚀</em></p>
-</div>
-  
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
