@@ -19,62 +19,54 @@ I'm a **Software Engineer** with over **2 years of experience** specializing in 
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Work
 
-#### 🎬 **[AuraStream](https://aurastream.cloud)**
-A cutting-edge "Ghost Engine" video streaming platform.
-- **Tech**: Next.js 19, Tailwind CSS v4, Framer Motion, NextAuth.js, PostgreSQL.
-- **Highlight**: Optimized for high-concurrency and low-latency video delivery.
+**[AuraStream](https://aurastream.cloud)**
+<br/>
+*A cutting-edge "Ghost Engine" video streaming platform optimized for high-concurrency and low-latency delivery.*
+<br/>
+`Next.js 19` `Tailwind CSS v4` `Framer Motion` `PostgreSQL`
 
-#### 🧹 **[ClearFeed](https://chromewebstore.google.com/detail/clearfeed/pjhhcihepfhbglmkokbbiakkdnbaoiep)**
-A professional Chrome extension to declutter social feeds.
-- **Tech**: Vanilla JS, Manifest V3, DOM Events, MutationObserver.
-- **Highlight**: Real-time content filtering and layout optimization.
+<br/>
 
-#### 📄 **[Invoice Maker](https://github.com/xcyberpunkx0/Invoice-Maker)**
-A professional, automated invoice generation tool.
-- **Tech**: Next.js, TypeScript, Tailwind CSS, React, Vercel.
+**[ClearFeed](https://chromewebstore.google.com/detail/clearfeed/pjhhcihepfhbglmkokbbiakkdnbaoiep)**
+<br/>
+*A professional Chrome extension to declutter social feeds through real-time content filtering and layout optimization.*
+<br/>
+`Vanilla JS` `Manifest V3` `DOM Events` `MutationObserver`
+
+<br/>
+
+**[Invoice Maker](https://github.com/xcyberpunkx0/Invoice-Maker)**
+<br/>
+*A professional, automated invoice generation tool.*
+<br/>
+`Next.js` `TypeScript` `Tailwind CSS`
+
+<br/>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Expertise & Technologies
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
+**Languages:** TypeScript, JavaScript, Python, Java, C++, SQL
+<br/>
+**Frontend:** Next.js 19, React, Tailwind CSS v4, Flutter, Redux, Framer Motion
+<br/>
+**Backend & Data:** Node.js, Supabase, Firebase, PostgreSQL, MongoDB
+<br/>
+**Tools:** Figma, Git, Vercel
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-</p>
+<br/>
 
-<p align="left">
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<p align="left">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
 
 ---
 
