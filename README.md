@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya! 👋
 
-![Premium Banner](pro_cyberpunk_banner_v2.png)
+![Aditya's GitHub Banner](./assets/collaborate.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Frontend+Specialist;Mobile+App+Developer;UI%2FUX+Designer;AI+Journaling+Enthusiast" alt="Typing SVG" />
