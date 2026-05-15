@@ -25,7 +25,7 @@ I'm a **Software Engineer** with over **2 years of experience** specializing in 
 <br/>
 *A cutting-edge "Ghost Engine" video streaming platform optimized for high-concurrency and low-latency delivery.*
 <br/>
-`Next.js 19` `Tailwind CSS v4` `Framer Motion` `PostgreSQL`
+`Next.js 16` `Tailwind CSS v4` `Framer Motion` `PostgreSQL`
 
 <br/>
 
