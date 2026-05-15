@@ -12,7 +12,7 @@
 
 I'm a **Software Engineer** with over **2 years of experience** specializing in building intuitive, high-performance, and scalable applications. My focus is on **Clean Architecture**, **Performance Optimization**, and crafting seamless user journeys.
 
-- 🏗️ Deep expertise in **Frontend Architecture** (Next.js 19, Tailwind v4).
+- 🏗️ Deep expertise in **Frontend Architecture** (Next.js 16, Tailwind v4).
 - 📱 Cross-platform mobile development with **Flutter**.
 - 🛠️ Specialist in **Browser Extensions** (ClearFeed) and real-time systems.
 - 🎨 Design-driven development with **Figma** and **Framer Motion**.
@@ -51,7 +51,7 @@ I'm a **Software Engineer** with over **2 years of experience** specializing in 
 
 **Languages:** TypeScript, JavaScript, Python, Java, C++, SQL
 <br/>
-**Frontend:** Next.js 19, React, Tailwind CSS v4, Flutter, Redux, Framer Motion
+**Frontend:** Next.js 16, React, Tailwind CSS v4, Flutter, Redux, Framer Motion
 <br/>
 **Backend & Data:** Node.js, Supabase, Firebase, PostgreSQL, MongoDB
 <br/>
