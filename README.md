@@ -151,5 +151,7 @@ Bridging buyers and local offline vendors — from OTP-based auth and real-time 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=xcyberpunkx0&style=flat-square&color=18181b&label=visitors" alt="Profile Views" />
+[![Lighthouse Accessibility](https://img.shields.io/badge/Lighthouse-97%2F100-success?logo=lighthouse&logoColor=white)](https://adityagupta.space)
+
 
 </div>
