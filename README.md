@@ -30,7 +30,7 @@
 ![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=ed8b00)
 ![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00599c)
 ![Dart](https://img.shields.io/badge/Dart-000?style=flat-square&logo=dart&logoColor=0175c2)
-![Next.js](https://img.shields.io/badge/Next.js_19-000?style=flat-square&logo=next.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61dafb)
 ![Tailwind](https://img.shields.io/badge/Tailwind_v4-000?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
 ![Flutter](https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter&logoColor=54c5f8)
