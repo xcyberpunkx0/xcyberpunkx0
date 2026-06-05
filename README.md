@@ -140,7 +140,7 @@ Bridging buyers and local offline vendors — from OTP-based auth and real-time 
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xcyberpunkx0&bg_color=000000&color=a1a1aa&line=3f3f46&point=fafafa&area=true&area_color=18181b&hide_border=true&custom_title=" width="100%" alt="Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xcyberpunkx0&theme=merko&hide_border=true" width="100%" alt="Activity" />
 
 ---
 
